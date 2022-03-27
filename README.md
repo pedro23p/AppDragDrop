@@ -4,7 +4,7 @@
 
 -Instalei DND
 -Estrutura de dados fácil de manipular e analisar.
--Pouca componetização, pois foco na ordem/prioridade( <dragDropContext/>; <Droppable/>; <Draggable/>)
+-Pouca componetização, pois foco na ordem/prioridade : dragDropContext; Droppable; Draggable.
 
 -https://www.freecodecamp.org/news/how-to-add-drag-and-drop-in-react-with-react-beautiful-dnd/
 -https://react-dnd.github.io/react-dnd/
